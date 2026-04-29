@@ -15,7 +15,7 @@ Uses NLP techniques to understand tone, intent, and content.
 Reduces manual effort in writing and managing emails.
 🛠️ Tech Stack
 Backend: Java / Spring Boot
-Frontend: (HTML / CSS / JS / React)
+Frontend: HTML / CSS / JS / React
 APIs: OpenAI API / NLP libraries
 Database: (MongoDB / MySQL if used)
 Tools: Maven / Git
